@@ -1,0 +1,148 @@
+[
+  {
+    "id": "bambolim-panjim-nh66",
+    "name": "Bambolim to Panjim (via NH66 Highway)",
+    "description": "Fastest direct highway route passing GMC, Santa Cruz, and Merces.",
+    "origin": "Bambolim (GMC)",
+    "destination": "Panjim KTC Bus Stand",
+    "stops": [
+      {
+        "id": "stop-1",
+        "name": "GMC Bambolim Main Gate",
+        "landmark": "Goa Medical College Hospital",
+        "latitude": 15.4578,
+        "longitude": 73.8547,
+        "sequence": 1
+      },
+      {
+        "id": "stop-2",
+        "name": "Bambolim Cross (Army Camp)",
+        "landmark": "2 Goa Bn NCC / Army Area",
+        "latitude": 15.4645,
+        "longitude": 73.8505,
+        "sequence": 2
+      },
+      {
+        "id": "stop-3",
+        "name": "Goa University Junction (NH66)",
+        "landmark": "University Bypass Flyover",
+        "latitude": 15.4710,
+        "longitude": 73.8445,
+        "sequence": 3
+      },
+      {
+        "id": "stop-4",
+        "name": "Santa Cruz Cross",
+        "landmark": "Santa Cruz Church Highway turn",
+        "latitude": 15.4785,
+        "longitude": 73.8390,
+        "sequence": 4
+      },
+      {
+        "id": "stop-5",
+        "name": "Merces Junction",
+        "landmark": "Merces Circle / Atal Setu Approach",
+        "latitude": 15.4860,
+        "longitude": 73.8430,
+        "sequence": 5
+      },
+      {
+        "id": "stop-6",
+        "name": "Kadam Bus Stop (Chimbel Cross)",
+        "landmark": "Old Ribandar bypass",
+        "latitude": 15.4912,
+        "longitude": 73.8468,
+        "sequence": 6
+      },
+      {
+        "id": "stop-7",
+        "name": "Patto Plaza",
+        "landmark": "Patto Financial Complex & Ourem Creek",
+        "latitude": 15.4948,
+        "longitude": 73.8340,
+        "sequence": 7
+      },
+      {
+        "id": "stop-8",
+        "name": "Panaji KTC Bus Stand",
+        "landmark": "Main Kadamba Interstate Bus Terminal",
+        "latitude": 15.4961,
+        "longitude": 73.8369,
+        "sequence": 8
+      }
+    ]
+  },
+  {
+    "id": "bambolim-panjim-taleigao",
+    "name": "Bambolim to Panjim (via Taleigao & St. Inez)",
+    "description": "Inner route passing Goa University Plateau, Taleigao, and Panjim Market.",
+    "origin": "Bambolim (GMC)",
+    "destination": "Panjim KTC Bus Stand",
+    "stops": [
+      {
+        "id": "stop-t1",
+        "name": "GMC Bambolim Main Gate",
+        "landmark": "Goa Medical College",
+        "latitude": 15.4578,
+        "longitude": 73.8547,
+        "sequence": 1
+      },
+      {
+        "id": "stop-t2",
+        "name": "Goa University Campus",
+        "landmark": "Faculty Block / Library",
+        "latitude": 15.4591,
+        "longitude": 73.8302,
+        "sequence": 2
+      },
+      {
+        "id": "stop-t3",
+        "name": "Taleigao Church / Market",
+        "landmark": "St. Michael Church Taleigao",
+        "latitude": 15.4725,
+        "longitude": 73.8245,
+        "sequence": 3
+      },
+      {
+        "id": "stop-t4",
+        "name": "Tonca Bus Stop",
+        "landmark": "Near Kamat Kinara",
+        "latitude": 15.4795,
+        "longitude": 73.8210,
+        "sequence": 4
+      },
+      {
+        "id": "stop-t5",
+        "name": "St. Inez Junction",
+        "landmark": "Near Caculo Mall",
+        "latitude": 15.4880,
+        "longitude": 73.8240,
+        "sequence": 5
+      },
+      {
+        "id": "stop-t6",
+        "name": "Panaji Market",
+        "landmark": "Municipal Market",
+        "latitude": 15.4945,
+        "longitude": 73.8260,
+        "sequence": 6
+      },
+      {
+        "id": "stop-t7",
+        "name": "Panaji Church Square",
+        "landmark": "Immaculate Conception Church",
+        "latitude": 15.4984,
+        "longitude": 73.8288,
+        "sequence": 7
+      },
+      {
+        "id": "stop-t8",
+        "name": "Panaji KTC Bus Stand",
+        "landmark": "Main Kadamba Bus Terminal",
+        "latitude": 15.4961,
+        "longitude": 73.8369,
+        "sequence": 8
+      }
+    ]
+  }
+]
